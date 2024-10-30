@@ -54,6 +54,7 @@ const App = () => {
   return (
     <>
       <h1>Refresh Cafe</h1>
+      <p>Hello</p>
 <hr />
 {
 beverageList.map((b)=>(
